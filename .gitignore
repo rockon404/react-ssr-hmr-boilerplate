@@ -1,0 +1,21 @@
+# IDE-specific and temporary files
+/.settings
+/.buildpath
+/.project
+/.idea
+/.vscode
+/.vagrant
+.tern-project
+.vimrc
+npm-debug.log
+yarn-error.log
+.DS_Store
+.vscode
+
+# Project files
+/node_modules/
+/public/
+/.build
+.docker-sync
+.env
+

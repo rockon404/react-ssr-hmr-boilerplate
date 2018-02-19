@@ -1,0 +1,7 @@
+{
+  "presets": [["env", { "modules": false }], "react", "stage-0"],
+  "plugins": [
+    ["babel-plugin-styled-components", { "ssr": true }],
+    [ "babel-plugin-webpack-alias", { "config": "./webpack/base.config.js" } ]
+  ]
+}
